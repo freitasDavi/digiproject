@@ -8,6 +8,7 @@
                 <input type="radio" name="Egg1" id="Egg1" v-model="egg1" :on-change="chamaFuncao">
             </form>
         </div>
+        Teste
     </main>
 </template>
 
